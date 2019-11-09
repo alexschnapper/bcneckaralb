@@ -913,7 +913,8 @@ a.back-to-top:hover, a.back-to-top:focus {
 }
 
 .counter-section {
-  background: #E91E63;
+  /* background: #E91E63; */
+  background: yellowgreen;
   overflow: hidden;
   position: relative;
   /* 
